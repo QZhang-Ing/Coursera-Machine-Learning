@@ -20,7 +20,9 @@ S = zeros(n);
 %       number of examples).
 %
 
+convariance = 1/m * X' * X;
 
+[U, S, V] = svd(convariance);
 
 
 

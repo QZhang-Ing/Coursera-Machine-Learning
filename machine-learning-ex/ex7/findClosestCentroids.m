@@ -22,6 +22,16 @@ idx = zeros(size(X,1), 1);
 %
 
 
+for i = 1:size(X,1)
+    temp = zeros(1,K);
+    for k = 1: K
+        temp(1, k) = sqrt(sum(power((X(i, :) - centroids(k, :)), 2)));
+    end
+    [value, index] = min(temp);
+    idx(i, 1)= index;
+end
+    
+
 
 
 
