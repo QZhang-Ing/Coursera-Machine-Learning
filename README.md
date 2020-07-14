@@ -77,7 +77,7 @@ Anomaly Detection
 
 Recommender Systems
 
-Assignment - Anomaly Detection and Recommender Systems
+Assignment - Anomaly Detection: gaussian distribution and threshold selecting using F-score and Recommender Systems: collaborative filtering learning 
 
 
 ###  Week 10
