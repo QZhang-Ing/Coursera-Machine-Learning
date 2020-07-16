@@ -82,10 +82,14 @@ Assignment - Anomaly Detection: gaussian distribution and threshold selecting us
 
 ###  Week 10
 
-Large Scale ML
+Large Scale ML skills: Stochastic gradient descent and mini batch gradient decent.
+
+Online learning
+
+Parallel computing
 
 
 ### Week 11 
 
-Application Example Photo OCR
+Application Example Photo OCR: Machine learning pipeline, celling analysis, sliding window operation.
 
