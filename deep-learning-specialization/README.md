@@ -1,6 +1,11 @@
 # Coursera-Specialization-Deep-Learning
 
-This repository includes my personal learning work to five courses in this specialization provided by deep learning.ai on coursera.
+This repository includes my personal learning work to the specialization series of deep learning provided by [deeplearning.ai](https://www.deeplearning.ai/) on coursera.
+
+This specialization consists of five courses.
+
+-------------------
+This repository is purely created for my personal academic use only. Discussions about further related topic are always welcomed.
 
 
 ## Table of Contents
