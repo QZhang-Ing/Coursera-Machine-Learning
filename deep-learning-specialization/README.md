@@ -12,9 +12,37 @@ This repository is purely created for my personal academic use only. Discussions
 
 ### Course One - Neural Network and Deep Learning
 
+#### Week1: 
+	
+	1.Trends driving the rise of deep learning
+
+	2. When to use CNNs and RNNs
+
+#### Week2:
+	
+	1. Logistic Regression Model, cost function, gradient, etc.
+
+	2. Gradient Descent and the Algorithm
+
+	3. Numpy Basic
+
+	4. Vectorization
+
+	5. Implement vectorized Algorithm of Logistic Regression in Python using Numpy
+
+#### Week3:
+
+	1. Intuition of Neural Networks
+
+	2. Basic Structure of a Neural Network 
+
+	3. Forward and Backward Propagation with one Hidden Layer
+
+	4. Implement Neural Network with one Hidden Layer in Python
 
 
 ### Course Two - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
 
 
 
