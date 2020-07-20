@@ -18,7 +18,7 @@ This repository includes my personal learning work to the specialization series 
 
 ## Table of Contents
 
-### Course One - Neural Network and Deep Learning
+### **Course One - Neural Network and Deep Learning**
 
 #### Week1 - [Introduction to deep learning](https://github.com/QZhang-Ing/Coursera-Machine-Learning/tree/master/deep-learning-specialization/neural-network-and-deep-learning/week1): 
 	
@@ -53,7 +53,7 @@ This repository includes my personal learning work to the specialization series 
 * Programming Assignment: Building a deep neural network 
 * 2nd Programming Assignment: Building a image classifier using deep neural network
 
-##### Summary
+##### **Summary**
 *Theories learned*:
 
 1. Mathmatic expression of logistic regression and its intuition.
@@ -69,7 +69,7 @@ This repository includes my personal learning work to the specialization series 
 * Build a multiple hidden layer NN with Numpy 
 
 
-### Course Two - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+### **Course Two - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
 
 #### Week1 - [Practical aspects of Deep Learning](https://github.com/QZhang-Ing/Coursera-Machine-Learning/tree/master/deep-learning-specialization/Improving_Deep_Neural_Networks_Hyperparameter_tuning/week1)
 
@@ -100,7 +100,7 @@ This repository includes my personal learning work to the specialization series 
 
 * Programming Assignment: Using TensorFlow to build a deep neural network image classifier
 
-##### Summary
+##### **Summary**
 *Theories learned*:
 
 1. Hyperparameters tuning process and regularization techniques.
@@ -114,7 +114,7 @@ This repository includes my personal learning work to the specialization series 
 * Gradient Checking 
 
 
-### Course Three - Structuring Machine Learning Projects
+### **Course Three - Structuring Machine Learning Projects**
 
 #### Week1 - [Introduction to Machine Learning Strategy](https://github.com/QZhang-Ing/Coursera-Machine-Learning/tree/master/deep-learning-specialization/Structuring_Machine_Learning_Project/week1)
 
@@ -132,7 +132,7 @@ This repository includes my personal learning work to the specialization series 
 
 * Case Study: Autonomous Driving Project 
 
-##### Summary
+##### **Summary**
 *Theories learned*:
 
 1. How to Error Analysis and how to decide what to improve 
@@ -147,7 +147,7 @@ This repository includes my personal learning work to the specialization series 
 
 
 
-### Course Four - Convolutional Neural Networks
+### **Course Four - Convolutional Neural Networks**
 
 -----------------
 
@@ -156,7 +156,7 @@ IN PROCESS
 -----------------
 
 
-### Course Five - Sequence Models
+### **Course Five - Sequence Models**
 
 -----------------
 
