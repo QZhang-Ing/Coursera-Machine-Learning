@@ -2,11 +2,13 @@
 
 ### [Master Deep Learning](https://www.coursera.org/specializations/deep-learning)
 Instructor: [Andrew Ng, DeepLearning.ai](https://en.wikipedia.org/wiki/Andrew_Ng)
+
 -------------------
 
 This repository includes my personal learning work to the specialization series of deep learning provided by [deeplearning.ai](https://www.deeplearning.ai/) on coursera.
 
 -------------------
+
 *This repository is purely created for my personal academic use only. Discussions about further related topic are always welcomed.*
 
 
