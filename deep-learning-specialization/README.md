@@ -53,8 +53,7 @@ This repository includes my personal learning work to the specialization series 
 * Programming Assignment: Building a deep neural network 
 * 2nd Programming Assignment: Building a image classifier using deep neural network
 
-##### Summary of Course One
-
+##### Summary
 *Theories learned*:
 
 1. Mathmatic expression of logistic regression and its intuition.
@@ -101,8 +100,7 @@ This repository includes my personal learning work to the specialization series 
 
 * Programming Assignment: Using TensorFlow to build a deep neural network image classifier
 
-##### Summary of Course Two
-
+##### Summary
 *Theories learned*:
 
 1. Hyperparameters tuning process and regularization techniques.
@@ -134,8 +132,7 @@ This repository includes my personal learning work to the specialization series 
 
 * Case Study: Autonomous Driving Project 
 
-##### Summary of Course Three
-
+##### Summary
 *Theories learned*:
 
 1. How to Error Analysis and how to decide what to improve 
@@ -152,8 +149,17 @@ This repository includes my personal learning work to the specialization series 
 
 ### Course Four - Convolutional Neural Networks
 
+-----------------
+
+IN PROCESS
+
+-----------------
 
 
 ### Course Five - Sequence Models
 
+-----------------
 
+IN PROCESS
+
+-----------------
