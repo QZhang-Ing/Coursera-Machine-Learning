@@ -149,11 +149,42 @@ This repository includes my personal learning work to the specialization series 
 
 ### **Course Four - Convolutional Neural Networks**
 
------------------
+#### Week1 - [Basic of Convolutional Neural Networks]
 
-IN PROCESS
+1. What is Convolution and basic examples like edge detection
+2. Notation in ConvNet
+3. Padding and Striding
+4. Convolution in 3D
+5. One layer ConvNet
+6. Pooling
 
------------------
+* Programming Assignment: Build related ConvNet functions from Scratch with Numpy
+* 2nd Programming Assignment: Build and train a ConvNet in TensorFlow for a classification problem
+
+#### Week2 - [CNN Application](https://github.com/QZhang-Ing/Coursera-Machine-Learning/tree/master/deep-learning-specialization/Convolutional_Neural_Networks/week2)
+
+1. Classic Networks
+2. How to build residual Network
+3. Intuition of 1*1 Convolution
+4. Inception Network
+5. How to use open source to kickoff your implementation
+6. Transfer Learning using open source
+
+* Programming Assignment: Keras Introduction
+* 2nd Programming Assignment: ResNet
+
+#### Week3 - [Object Detection](https://github.com/QZhang-Ing/Coursera-Machine-Learning/tree/master/deep-learning-specialization/Convolutional_Neural_Networks/week3)
+
+1. Object Localization and Detection
+2. Sliding Window and its Convolutional Implementation
+3. Non-max Suppression
+4. Anchor Boxes
+5. YOLO Algorithm
+
+* Programming Assignment: YOLO algorithm on automotive vision
+
+#### Week4 - []
+
 
 
 ### **Course Five - Sequence Models**
