@@ -183,7 +183,32 @@ This repository includes my personal learning work to the specialization series 
 
 * Programming Assignment: YOLO algorithm on automotive vision
 
-#### Week4 - []
+#### Week4 - [Face Recognition](https://github.com/QZhang-Ing/Coursera-Machine-Learning/tree/master/deep-learning-specialization/neural-network-and-deep-learning/week4)
+
+1. Face Verification vs. Face Recognition
+2. One Shot Learning
+3. Triplet Loss and Loss Function of Face Verification
+4. Neural Style Transfer
+
+* Programming Assignment: Neural Style Transfer
+* 2nd Programming Assignment: Face verification and face recognition
+
+##### **Summary**
+*Theories learned*:
+
+1. What is convolutional network and how to build it from scratch with numpy
+2. Classic ConvNets
+3. Object detection in the context of automotive vision
+5. YOLO algorithm
+4. Face recognition and Neural Style Transfer
+
+*Practices*:
+
+* Convolutional network forward and backward propagation with numpy
+* ResNet with Keras
+* YOLO
+* Neural Style Transfer
+* Face verification and face recognition
 
 
 
