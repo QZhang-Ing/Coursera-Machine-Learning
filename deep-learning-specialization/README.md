@@ -183,7 +183,7 @@ This repository includes my personal learning work to the specialization series 
 
 * Programming Assignment: YOLO algorithm on automotive vision
 
-#### Week4 - [Face Recognition](https://github.com/QZhang-Ing/Coursera-Machine-Learning/tree/master/deep-learning-specialization/neural-network-and-deep-learning/week4)
+#### Week4 - [Face Recognition](https://github.com/QZhang-Ing/Coursera-Machine-Learning/tree/master/deep-learning-specialization/Convolutional_Neural_Networks/week4)
 
 1. Face Verification vs. Face Recognition
 2. One Shot Learning
